@@ -1,4 +1,4 @@
-## This folder contains slides and demo code for ODSC 2017.
+# This folder contains slides and demo code for ODSC 2017.
 
 ## Instructions for the tutorial:
 
